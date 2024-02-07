@@ -1,4 +1,4 @@
-name: 'Setup Chrome'
+name: 'Setup Chrome - Mac_Arm'
 description: 'Install and setup Google Chrome and Chromium'
 author: "Shin'ya Ueoka"
 inputs:
